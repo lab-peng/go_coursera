@@ -1,0 +1,30 @@
+What does a compiler do?
+Generates executable machine code from source code in high-level language
+
+What is the scope of a variable?
+Region of a program where the variable can be accessed
+
+What is garbage collection?
+Deallocation of objects which are no longer in use
+
+What does an interpreter do?
+Converts instructions in a high-level language into machine code at runtime
+
+Concurrency always results in some performance improvement.
+False
+
+Question 6
+The type of a variable determines which of the following aspects of that
+variable? 
+Size in memory
+Operations that can be performed on the variable
+The data that can be contained in the object
+
+What is the name of the package from which an executable program is generated?
+main 
+
+Which of the following is an example of a short variable declaration?
+x := 5
+
+Which integer type provides higher accuracy?
+All of these types(int int8 int16 int32 etc) provide the same accuracy
